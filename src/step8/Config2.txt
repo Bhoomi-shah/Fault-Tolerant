@@ -1,0 +1,7 @@
+1 net02.utdallas.edu 9200
+2 net03.utdallas.edu 9200
+3 net09.utdallas.edu 9200
+4 net05.utdallas.edu 9200   
+5 net06.utdallas.edu 9200
+
+ 
